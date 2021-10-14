@@ -18,9 +18,7 @@
 <a href="https://velog.io/@con-c2ju" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:yotcu362@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://url.kr/aqgnz9" target="_blank"><img src="https://img.shields.io/badge/Studying Notes-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<div>
-
-<br>
+<div><br>
   
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=con-c2ju&show_icons=true&theme=graywhite&hide_border=true" alt="깃허브 통계" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=con-c2ju&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
