@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! 👋</h2>
 
-<h4>I'm Studying...</h4>
+<h4>🛠 I'm Studying...</h4>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
